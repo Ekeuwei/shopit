@@ -26,4 +26,4 @@ To be able to process payments you will need to create an account at **[stripe.c
 - The app is ready for deployment
 - To deploy it, you can use hosting platforms such as Heroku, AWS or similar.
 ### License
-This project is licensed under the ***MIT License*** - see the LICENSE.md file for details.
+This project is licensed under the ***MIT License*** - see the [LICENSE.md](https://github.com/Ekeuwei/shopit/blob/master/LICENSE.md) file for details.
